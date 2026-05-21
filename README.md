@@ -37,9 +37,8 @@ I bring two years of formal research output, three years of embedded systems eng
 Achieved 97.62% accuracy and 0.985 AUC on LUNA16 by fusing static (GLCM, FOS, Histogram) with dynamic ResNet50 features, selected via Kruskal-Wallis and classified with Bayesian-optimized XGBoost.
 [DOI: 10.1155/je/1367255](https://doi.org/10.1155/je/1367255)
 
-📄 **[Biometric-Conditioned Fall Detection](https://github.com/mfhrm31/mobiact-falldet)** — *DIGITAL HEALTH* (Sage, Q1), 2025
-Quantified the effect of individual biometric features on RNN-based fall detection across six controlled experiments on MobiAct, demonstrating Stacked GRU robustness under multimodal conditioning (96% sensor-only, 91% under full biometric fusion).
-[DOI: 10.1177/20552076251384232](https://doi.org/10.1177/20552076251384232)
+📄 **[Lung Nodule Prediction with Hybrid Feature Fusion](https://github.com/mfhrm31/lungnet-hybrid)** — *Journal of Engineering* (Wiley), 2026 · **First author**
+[📄 Read full paper (PDF)](Maqbool_2026_LungNodule_JournalOfEngineering.pdf)
 
  **Two additional manuscripts under review** — lumbar spine degeneration classification, and an end-to-end lung cancer workflow optimization study.
 
