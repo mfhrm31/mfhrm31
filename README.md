@@ -59,10 +59,16 @@ Achieved 97.62% accuracy and 0.985 AUC on LUNA16 by fusing static (GLCM, FOS, Hi
 
 ### 🛠️ Stack
 
+### 🛠️ Stack
+
 **ML / Deep Learning:** PyTorch · TensorFlow · MONAI · Hugging Face · Scikit-learn · XGBoost · Bayesian Optimization
+
 **Medical Imaging:** OpenCV · ITK · SimpleITK · DICOM · Radiomics (GLCM, FOS, Histogram)
+
 **MLOps & Deployment:** Docker · ONNX · GitHub Actions · AWS · CI/CD
+
 **Embedded / Firmware QA:** Playwright · Appium · WebDriverIO · Hardware-in-the-Loop · OTA Validation
+
 **Languages:** Python · C++ · JavaScript · SQL
 
 ---
