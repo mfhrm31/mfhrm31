@@ -35,7 +35,7 @@ I bring two years of formal research output, three years of embedded systems eng
 
 📄 **[Lung Nodule Prediction with Hybrid Feature Fusion](https://github.com/mfhrm31/lungnet-hybrid)** — *Journal of Engineering* (Wiley), 2026 · **First author**
 Achieved 97.62% accuracy and 0.985 AUC on LUNA16 by fusing static (GLCM, FOS, Histogram) with dynamic ResNet50 features, selected via Kruskal-Wallis and classified with Bayesian-optimized XGBoost.
-[DOI: 10.1155/je/1367255](https://doi.org/10.1155/je/1367255)
+[📄 Read full paper (PDF)](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/je/1367255) · [DOI: 10.1155/je/1367255](https://doi.org/10.1155/je/1367255)
 
 **[Biometric-Conditioned Fall Detection](https://github.com/mfhrm31/mobiact-falldet)** — *DIGITAL HEALTH* (Sage, Q1), 2025
 [📄 Read full paper (PDF)](Madiha_Maqbool_2025_FallDetection_DigitalHealth.pdf)
