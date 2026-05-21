@@ -38,7 +38,7 @@ Achieved 97.62% accuracy and 0.985 AUC on LUNA16 by fusing static (GLCM, FOS, Hi
 [DOI: 10.1155/je/1367255](https://doi.org/10.1155/je/1367255)
 
 **[Biometric-Conditioned Fall Detection](https://github.com/mfhrm31/mobiact-falldet)** — *DIGITAL HEALTH* (Sage, Q1), 2025
-[📄 Read full paper (PDF)](Madiha_Maqbool_2025_FallDetection_DigitalHealth.pdf) · [DOI: 10.1177/20552076251384232](https://doi.org/10.1177/20552076251384232)
+[📄 Read full paper (PDF)](Madiha_Maqbool_2025_FallDetection_DigitalHealth.pdf)
 
  **Two additional manuscripts under review** — lumbar spine degeneration classification, and an end-to-end lung cancer workflow optimization study.
 
