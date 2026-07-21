@@ -1,34 +1,23 @@
-### Hi, I'm Madiha 👋
+Hi, I'm Madiha 👋
 
- **Medical AI researcher** building deep learning systems for clinically deployable healthcare in resource-constrained settings
- **QA Engineer (Embedded Systems)** @ Motive (San Francisco, remote)
- BSc Computer Science & IT — University of Azad Jammu & Kashmir (Thesis grade: 4.0/4.0)
+Medical AI researcher building deep learning systems for clinically deployable healthcare in resource-constrained settings
+QA Engineer (Embedded Systems) @ Motive (San Francisco, remote)
+BSc Computer Science & IT — University of Azad Jammu & Kashmir (Thesis grade: 4.0/4.0)
 
----
+🎯 Currently Seeking
 
-### 🎯 Currently Seeking
+AI Engineer role — open to full-time opportunities.
 
-**Master's by Research / MPhil position in Medical AI** — for July 2027 / Feb 2028 intake.
+I am actively looking for a team where I can apply my published research in medical image analysis and multimodal sensor fusion to real-world AI product development. My particular strengths are:
 
-I am actively looking for a research group where I can extend my published work in medical image analysis and multimodal sensor fusion into a sustained, supervised research thesis. My particular interests are:
+End-to-end deep learning pipelines from research to production
+Multimodal model development and feature engineering
+Edge deployment and inference optimization for constrained environments
 
-- Hybrid feature representations for low-data clinical imaging
-- Uncertainty quantification for high-stakes diagnostic models
-- Edge deployment of medical AI for under-resourced healthcare systems
+I bring two years of formal research output, three years of embedded systems engineering at a U.S. company, and a track record of shipping technically rigorous projects from first idea to peer-reviewed publication. Open to roles in medical AI, computer vision, or applied machine learning more broadly.
 
-I bring two years of formal research output, three years of embedded systems engineering at a U.S. company, and a track record of completing technically rigorous projects from first idea to peer-reviewed publication. Open to discussing fit with supervisors working on related problems.
-
- Reach out via the email below — happy to share full CV, transcripts, and additional writing samples.
-
----
-
-### 🩺 Research Focus
-
-- **Medical Image Analysis** — oncology imaging (lung, brain), spinal pathology
-- **Multimodal Sensor Fusion** — biometric-conditioned activity recognition for digital health
-- **Clinical Decision Support** — uncertainty-aware deep learning for high-stakes settings
-- **Reproducible Medical AI** — paper-to-code pipelines, calibration analysis, edge-ready inference
-
+✉️ Reach out via the email below — happy to share full CV, portfolio, and writing samples.
+mdhmaqbool@gmail.com
 ---
 
 ### 📚 Published Work
@@ -70,20 +59,7 @@ Achieved 97.62% accuracy and 0.985 AUC on LUNA16 by fusing static (GLCM, FOS, Hi
 **Embedded / Firmware QA:** Playwright · Appium · WebDriverIO · Hardware-in-the-Loop · OTA Validation
 
 **Languages:** Python · C++ · JavaScript · SQL
-
 ---
-
-### 🎓 What I'm Looking For in a Research Group
-
-- A supervisor working on **medical image analysis, clinical AI, or multimodal health data**
-- An environment that values **reproducible research and rigorous evaluation** (calibration, uncertainty, fairness)
-- A group where I can contribute meaningfully from day one given my publication record and engineering background
-
-I read the literature in this space carefully and write code that runs. If your group is working on related problems and considering Master's by Research candidates, I would welcome a brief conversation.
-
----
-
-### 🔗 Connect
 
 ✉️ mdhmaqbool@gmail.com
 📄 [Google Scholar](https://scholar.google.com/citations?user=islEQF8AAAAJ)
