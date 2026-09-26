@@ -6,7 +6,7 @@ BSc Computer Science & IT — University of Azad Jammu & Kashmir (Thesis grade: 
 
 🎯 Currently Seeking
 
-AI Engineer role — open to full-time opportunities.
+Medical AI Researcher and Embedded QA Engineer at Motive.
 
 I am actively looking for a team where I can apply my published research in medical image analysis and multimodal sensor fusion to real-world AI product development. My particular strengths are:
 
@@ -45,8 +45,6 @@ Achieved 97.62% accuracy and 0.985 AUC on LUNA16 by fusing static (GLCM, FOS, Hi
 | **[virtual-ai-paint](https://github.com/mfhrm31/virtual-ai-paint)** | Foundational thesis project — real-time gesture HCI |
 
 ---
-
-### 🛠️ Stack
 
 ### 🛠️ Stack
 
