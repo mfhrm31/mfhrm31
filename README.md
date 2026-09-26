@@ -1,7 +1,7 @@
 Hi, I'm Madiha 👋
 
 Medical AI researcher building deep learning systems for clinically deployable healthcare in resource-constrained settings
-QA Engineer (Embedded Systems) @ Motive (San Francisco, remote)
+QA Engineer (Embedded Systems) @ Motive (San Francisco, California - remote)
 BSc Computer Science & IT — University of Azad Jammu & Kashmir (Thesis grade: 4.0/4.0)
 
 🎯 Currently Seeking
